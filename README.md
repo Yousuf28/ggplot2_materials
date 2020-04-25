@@ -24,11 +24,12 @@ The best video I found so far by [Thomas Lin Pedersen](https://twitter.com/thoma
 ## Others
 
 - [ggplot2 extensions](https://exts.ggplot2.tidyverse.org/gallery/)
-## rstudio::conf 2020
+## From rstudio conference and webinars
 
 - [The Glamour of Graphics - William Chase](https://resources.rstudio.com/rstudio-conf-2020/the-glamour-of-graphics-william-chase)
 - [3D ggplots with rayshader - Dr. Tyler Morgan-Wall](https://resources.rstudio.com/rstudio-conf-2020/3d-ggplots-with-rayshader-dr-tyler-morgan-wall)
 - [Spruce up your ggplot2 visualizations with formatted text - Claus Wilke](https://resources.rstudio.com/rstudio-conf-2020/spruce-up-your-ggplot2-visualizations-with-formatted-text-claus-wilke)
 - [Best practices for programming with ggplot2 - Dewey Dunnington](https://resources.rstudio.com/rstudio-conf-2020/best-practices-for-programming-with-ggplot2-dewey-dunnington)
 - [Extending your ability to extend ggplot2 - Thomas Lin Pedersen](https://resources.rstudio.com/rstudio-conf-2020/extending-your-ability-to-extend-ggplot2-thomas-lin-pedersen)
+-[Effective Visualizations for Data Driven Decisions](https://resources.rstudio.com/webinars/effective-visualizations-for-data-driven-decisions)
 

@@ -12,6 +12,7 @@ The best video I found so far by [Thomas Lin Pedersen](https://twitter.com/thoma
 - [ggplot2.tidyverse.org](https://ggplot2.tidyverse.org)
 
 - [ggplot2: Elegant Graphics for Data Analysis_Hadley Wickham](https://ggplot2-book.org)
+- [Data visualisation Chapter from R for Data Science book](https://r4ds.had.co.nz/data-visualisation.html)
 - [R Graphics Cookbook_Winston Chang](https://r-graphics.org)
 - [Fundamentals of Data Visualization_Claus O. Wilke](https://serialmentor.com/dataviz/)
 - [Data Visualization_A practical introduction](https://socviz.co)

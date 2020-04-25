@@ -33,5 +33,8 @@ The best video I found so far by [Thomas Lin Pedersen](https://twitter.com/thoma
 - [Extending your ability to extend ggplot2 - Thomas Lin Pedersen](https://resources.rstudio.com/rstudio-conf-2020/extending-your-ability-to-extend-ggplot2-thomas-lin-pedersen)
 -[Effective Visualizations for Data Driven Decisions](https://resources.rstudio.com/webinars/effective-visualizations-for-data-driven-decisions)
 
+## R Studio Community 
+- [For Discussion](https://community.rstudio.com)
+
 ## R Shiny Materials
 - [link](https://github.com/Yousuf28/R_Shiny_materials/blob/master/README.md)

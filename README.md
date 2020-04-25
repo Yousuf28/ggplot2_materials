@@ -1,4 +1,4 @@
-# ggplot_materials
+# ggplot2_materials
 
 ## Video
 

@@ -41,7 +41,7 @@ The best video I found so far by [Thomas Lin Pedersen](https://twitter.com/thoma
 
 
 ## Books by Hadley Wickham
-
+- [The tidyverse style guide(for writing good code in R)_Hadley Wickham](https://style.tidyverse.org)
 - [Advanced R_Hadley Wickham](https://adv-r.hadley.nz)
 - [R for Data Science_Hadley Wickham](https://r4ds.had.co.nz)
 - [R packages_Hadley Wickham](http://r-pkgs.had.co.nz)

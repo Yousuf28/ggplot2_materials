@@ -49,3 +49,10 @@ The best video I found so far by [Thomas Lin Pedersen](https://twitter.com/thoma
 - [Mastering Shiny](https://mastering-shiny.org)
 
 
+# R basic materials
+
+ Buy Udemy course only when the price is $10 to $15. Udemy changes price a lot.  
+- [Data Science and Machine Learning Bootcamp with R_udemy](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/)
+
+- [Statistics for Data Analysis Using R_udemy](https://www.udemy.com/course/statistics-using-r/)
+
